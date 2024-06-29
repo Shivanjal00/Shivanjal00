@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivanjal</h1>
 <h3 align="center">A passionate App developer from India</h3>
 
-- 🔭 I’m currently working on [ChatNova](https://github.com/Shivanjal00/ChatNova)
+- 🔭 I’m currently working as App developer in Walking Tree
 
-- 🌱 I’m currently learning **Android studio,java**
-
-- 👯 I’m looking to collaborate on **Learnly**
+- 🌱 I have good knowledge of  **Android studio and Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shivanjal00](https://github.com/Shivanjal00)
 
