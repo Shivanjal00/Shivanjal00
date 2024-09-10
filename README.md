@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose, Kotlin**
 
-- 👨‍💻 All of my projects are available at [(((((---soon---))))]((((((---soon---)))))
+- 👨‍💻 All of my projects are available at https://github.com/Shivanjal00?tab=repositories
 
 - 💬 Ask me about **Java, Kotlin, Android**
 
