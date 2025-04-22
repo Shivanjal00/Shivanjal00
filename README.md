@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivanjal Sharma</h1>
+<h1 align="center">Hi 👋, I'm Shivanjal</h1>
 <h3 align="center">🚀 Android Developer | Kotlin & Java | Firebase | Jetpack Compose</h3>
 
 ---
