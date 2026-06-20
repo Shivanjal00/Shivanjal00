@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shivanjal</h1>
-<h3 align="center">📱 Mobile Application Developer</h3>
+<h3 align="center">Mobile Application Developer</h3>
 
 <p align="center"><a href="https://linkedin.com/in/shivanjal-sharma-78a820152" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a><span>&nbsp;&nbsp;&nbsp;</span><a href="https://shivanjal00.github.io/shivanjal-portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-00E5FF?style=flat&logoColor=black" /></a><span>&nbsp;&nbsp;&nbsp;</span><a href="mailto:shivanjalsharma00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a></p>
 
