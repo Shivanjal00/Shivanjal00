@@ -3,16 +3,15 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shivanjal-sharma-78a820152" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" style="display:inline-block" />
   </a>
-  <a href="https://github.com/Shivanjal00" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  &nbsp;
+  <a href="https://shivanjal00.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-00E5FF?style=flat&logoColor=black" style="display:inline-block" />
   </a>
-  <a href="https://shivanjal00.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-00E5FF?style=flat&logoColor=black" />
-  </a>
-  <a href="mailto:shivanjalsharma00@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  &nbsp;
+  <a href="mailto:shivanjalsharma00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" style="display:inline-block" />
   </a>
 </p>
 
@@ -68,10 +67,10 @@
 | Project | Description | Stack |
 |---|---|---|
 | **NCRide / ALO** | Ride-hailing app for Delhi NCR — cabs, bikes, autos. Dual apps for customers & drivers | React Native, TypeScript, Redux, Maps API |
-| **PGTI** 🟢 | Global golf tournament platform · Live on both stores | React Native, TypeScript, WebSocket, Firebase |
+| **PGTI** | Global golf tournament platform · Live on both stores | React Native, TypeScript, WebSocket, Firebase |
 | **Unheard** | AI chatbot with emotional intelligence | React Native, TypeScript, LLM APIs |
-| **The Divine Sparks** 🟢 | Spiritual media streaming app · Live on both stores | React Native, Media Streaming, Permissions |
-| **Libquik Platform** 🟢 | Library & coaching seat-booking · 2 live Play Store apps | Kotlin, Firebase, ML Kit, MVVM |
+| **The Divine Sparks** | Spiritual media streaming app · Live on both stores | React Native, Media Streaming, Permissions |
+| **Libquik Platform** | Library & coaching seat-booking · 2 live Play Store apps | Kotlin, Firebase, ML Kit, MVVM |
 | **Team Tracker** | BLE + RFID real-time employee tracking system | Kotlin, BLE, RFID, Bluetooth APIs |
 | **TenSquare Education** | Recorded classes & PDF delivery with secure access controls | Kotlin, Firebase, PDF Viewer |
 
@@ -106,18 +105,14 @@ Offline-first personal expense tracker with Realm Database and clean minimal UI.
 
 <p>
   <a href="https://linkedin.com/in/shivanjal-sharma-78a820152" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" style="display:inline-block" />
   </a>
   &nbsp;
-  <a href="https://github.com/Shivanjal00" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <a href="https://shivanjal00.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-00E5FF?style=flat&logoColor=black" style="display:inline-block" />
   </a>
   &nbsp;
-  <a href="https://shivanjal00.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-00E5FF?style=flat&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="mailto:shivanjalsharma00@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:shivanjalsharma00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" style="display:inline-block" />
   </a>
 </p>
