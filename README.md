@@ -1,19 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shivanjal</h1>
-<h3 align="center">📱 Mobile Application Developer · React Native & Android · iOS + Android</h3>
+<h1 align="center">Hi, I'm Shivanjal</h1>
+<h3 align="center">📱 Mobile Application Developer</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/shivanjal-sharma-78a820152" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" style="display:inline-block" />
-  </a>
-  &nbsp;
-  <a href="https://shivanjal00.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-00E5FF?style=flat&logoColor=black" style="display:inline-block" />
-  </a>
-  &nbsp;
-  <a href="mailto:shivanjalsharma00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" style="display:inline-block" />
-  </a>
-</p>
+<p align="center" style="display:flex;gap:8px;justify-content:center;align-items:center"><a href="https://linkedin.com/in/shivanjal-sharma-78a820152" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a><a href="https://shivanjal00.github.io/shivanjal-portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-00E5FF?style=flat&logoColor=black" /></a><a href="mailto:shivanjalsharma00@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a></p>
 
 ---
 
@@ -103,16 +91,4 @@ Offline-first personal expense tracker with Realm Database and clean minimal UI.
 
 ## 🔗 Let's Connect
 
-<p>
-  <a href="https://linkedin.com/in/shivanjal-sharma-78a820152" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" style="display:inline-block" />
-  </a>
-  &nbsp;
-  <a href="https://shivanjal00.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-00E5FF?style=flat&logoColor=black" style="display:inline-block" />
-  </a>
-  &nbsp;
-  <a href="mailto:shivanjalsharma00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" style="display:inline-block" />
-  </a>
-</p>
+<p align="center" style="display:flex;gap:8px;justify-content:center;align-items:center"><a href="https://linkedin.com/in/shivanjal-sharma-78a820152" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a><a href="https://shivanjal00.github.io" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-00E5FF?style=flat&logoColor=black" /></a><a href="mailto:shivanjalsharma00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a></p>
